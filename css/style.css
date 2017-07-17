@@ -1,0 +1,145 @@
+body{
+	width: 500px;
+	font-family: Helvetica;
+	color: #777;
+    font-family: Tahoma,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+.ratingTd{
+	padding-right: 5px;
+}
+.b-comment__user a, .b-comments-profile__title a {
+    text-decoration: none;
+    color: #5190b8;
+}
+.b-comment__content a {
+    color: #5190b8;
+    font-size: 13px!important;
+}
+.b-comment__rating-count {
+    font-weight: 700;
+    font-size: 13px;
+}
+.b-comment__user img {
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+    border: 0;
+    vertical-align: text-top;
+    margin-left: 5px;
+}
+.b-comment__header {
+    color: #777;
+    line-height: 20px;
+    margin: 5px 0;
+    font-size: 11px;
+    overflow: hidden;
+}
+.b-comment__user a {
+    font-weight: 700;
+    color: #777;
+    text-decoration: none;
+}
+.b-comments-profile{
+	margin: 10px 0;
+}
+hr{
+	background-color: #ebebeb;
+	color: #ebebeb;
+	height: 1px;
+    border: 0;
+}
+blockquote {
+    font-style: italic;
+    color: #8c8681;
+    background: #faf9f4;
+    padding: 5px!important;
+    border-radius: 2px;
+    border: 0!important;
+    margin: 0!important;
+}
+.b-comment__content {
+    margin: 0;
+    font-size: 13px!important;
+    color: #444;
+}
+.b-comment__content p{
+    margin: 0;
+}
+.b-comment__rating-count{
+	float: left;
+}
+
+a{
+    color: #777;    
+    font-size: 12px;
+}
+a:hover{
+	color: #5190b8;
+}
+.story__date{
+    font-size: 12px;
+}
+.story__rating-count{
+    width: 100%;
+    text-align: center;
+    font-size: 21px;
+    color: #9b9999;
+}
+.story__header{
+	margin: 10px 0;
+}
+.story__user-icon{
+	margin-right: 3px;
+}
+.story__date{
+	display: inline-block;
+}
+.story__title-link{
+    font-size: 21px;
+    text-decoration: none;
+}
+
+.tabs{
+    display: flex;
+    justify-content: space-between;
+    margin: 10;
+    border-bottom: 1px solid #D8D8D8;
+}
+.tabs a{
+    color: #5190B8;
+    font-size: 16px;
+    cursor: hand;   
+    padding: 10px 0;
+}
+
+.b-user-profile{
+	background-color: #f0f1eb;
+}
+
+.b-user-menu__avatar{
+	margin-right: 13;
+}
+.b-user-profile{
+	padding: 15;
+}
+.secondTd a{
+    font-size: 21px;
+    text-decoration: none;
+    cursor: default;
+}
+.secondTd li, .secondTd li a {
+    list-style-type: none;
+    color: #606050;
+    vertical-align: middle;
+    font-size: 12px;
+    text-decoration: none;
+    cursor: default;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+.secondTd{
+	vertical-align: top;
+}
